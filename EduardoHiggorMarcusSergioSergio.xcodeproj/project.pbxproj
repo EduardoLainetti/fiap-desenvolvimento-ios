@@ -21,7 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0DB5D10D289555890042604A /* ProblemRegister.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProblemRegister.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DB5D10D289555890042604A /* EduardoHiggorMarcusSergioSergio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EduardoHiggorMarcusSergioSergio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DB5D110289555890042604A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0DB5D112289555890042604A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		0DB5D117289555890042604A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 		0DB5D10E289555890042604A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0DB5D10D289555890042604A /* ProblemRegister.app */,
+				0DB5D10D289555890042604A /* EduardoHiggorMarcusSergioSergio.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -181,9 +181,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0DB5D10C289555890042604A /* ProblemRegister */ = {
+		0DB5D10C289555890042604A /* EduardoHiggorMarcusSergioSergio */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0DB5D1242895558B0042604A /* Build configuration list for PBXNativeTarget "ProblemRegister" */;
+			buildConfigurationList = 0DB5D1242895558B0042604A /* Build configuration list for PBXNativeTarget "EduardoHiggorMarcusSergioSergio" */;
 			buildPhases = (
 				0DB5D109289555890042604A /* Sources */,
 				0DB5D10A289555890042604A /* Frameworks */,
@@ -193,9 +193,9 @@
 			);
 			dependencies = (
 			);
-			name = ProblemRegister;
+			name = EduardoHiggorMarcusSergioSergio;
 			productName = ProblemRegister;
-			productReference = 0DB5D10D289555890042604A /* ProblemRegister.app */;
+			productReference = 0DB5D10D289555890042604A /* EduardoHiggorMarcusSergioSergio.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -213,7 +213,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0DB5D108289555890042604A /* Build configuration list for PBXProject "ProblemRegister" */;
+			buildConfigurationList = 0DB5D108289555890042604A /* Build configuration list for PBXProject "EduardoHiggorMarcusSergioSergio" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -226,7 +226,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0DB5D10C289555890042604A /* ProblemRegister */,
+				0DB5D10C289555890042604A /* EduardoHiggorMarcusSergioSergio */,
 			);
 		};
 /* End PBXProject section */
@@ -406,6 +406,7 @@
 				DEVELOPMENT_TEAM = 853RB5K78H;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ProblemRegister/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = EduardoHiggorMarcusSergioSergio;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -434,6 +435,7 @@
 				DEVELOPMENT_TEAM = 853RB5K78H;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ProblemRegister/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = EduardoHiggorMarcusSergioSergio;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -455,7 +457,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0DB5D108289555890042604A /* Build configuration list for PBXProject "ProblemRegister" */ = {
+		0DB5D108289555890042604A /* Build configuration list for PBXProject "EduardoHiggorMarcusSergioSergio" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DB5D1222895558B0042604A /* Debug */,
@@ -464,7 +466,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0DB5D1242895558B0042604A /* Build configuration list for PBXNativeTarget "ProblemRegister" */ = {
+		0DB5D1242895558B0042604A /* Build configuration list for PBXNativeTarget "EduardoHiggorMarcusSergioSergio" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0DB5D1252895558B0042604A /* Debug */,
